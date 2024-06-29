@@ -13,7 +13,7 @@ This repository contains a Python program that performs encryption and decryptio
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/gowthamsai117/caesar-cipher.git
+   git clone https://github.com/priyapuchala117/caesar-cipher.git
    cd caesar-cipher
 
 2. **Run the Python script using the following command:**
@@ -42,7 +42,7 @@ This is a simple image encryption tool that encrypts and decrypts images using b
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/gowthamsai117/image-encryption-tool.git
+    git clone https://github.com/priyapuchala117/image-encryption-tool.git
     cd image-encryption-tool
     ```
 
@@ -95,7 +95,7 @@ The Password Strength Checker is a tool that assesses the strength of a password
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/gowthamsai117/password-strength-checker.git
+    git clone https://github.com/priyapuchala117/password-strength-checker.git
     cd password-strength-checker
     ```
 
@@ -145,7 +145,7 @@ This keylogger program records and logs keystrokes on a system. It captures keys
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/gowthamsai117/keylogger-tool.git
+    git clone https://github.com/priyapuchala117/keylogger-tool.git
     cd keylogger-tool
     ```
 
@@ -190,7 +190,7 @@ The Packet Sniffer Tool is designed for educational purposes to capture and anal
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/gowthamsai117/packet-sniffer-tool.git
+    git clone https://github.com/priyapuchala117/packet-sniffer-tool.git
     cd packet-sniffer-tool
     ```
 
@@ -214,5 +214,5 @@ pip install scapy
 
 
 
-This README file provides an overview of the project, how to use it, an example, licensing information, and contributing guidelines. Make sure to replace placeholders like `gowthamsai117` and `Gowtham` with your actual GitHub username and name.
+This README file provides an overview of the project, how to use it, an example, licensing information, and contributing guidelines. Make sure to replace placeholders like `priyapuchala117` and `priya` with your actual GitHub username and name.
 
